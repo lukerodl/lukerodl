@@ -5,6 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#####)
 
 [![Leite GitHub's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lukerodl&layout=compact&theme=dark)](https://github.com/lukerodl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Tecnologias 
 <div style="display: inline_block"><br>
