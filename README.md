@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luke.rodl/)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#####)
 
-
+[![Leite's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lukerodl&layout=compact&theme=dark)](https://github.com/lukerodl)
 ![Leite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukerodl&show_icons=true&theme=dark)
 
 ## Tecnologias 
