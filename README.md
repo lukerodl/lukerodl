@@ -14,3 +14,5 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
+
+Com uma forte ambição de crescer na área da tecnologia, busco apaixonadamente expandir meu conhecimento por meio de experiências educacionais e profissionais.
