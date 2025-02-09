@@ -13,4 +13,4 @@
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div> <br>
 
-Com uma forte ambição de crescer na área da tecnologia, busco apaixonadamente expandir meu conhecimento por meio de experiências educacionais e profissionais.
+With a strong ambition to grow in the tech field, I am passionately seeking to expand my knowledge through both educational and professional experiences.
